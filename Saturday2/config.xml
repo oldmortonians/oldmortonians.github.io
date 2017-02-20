@@ -1,13 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <juiceboxgallery>
+  <image imageURL="images/DSCF6819.jpg"
+	thumbURL="thumbs/DSCF6819.jpg"
+	linkURL="images/DSCF6819.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@OldMortonians\2017\WRG Sat180217\DSCF6819.JPG"
+
+>
+    <title><![CDATA[DSCF6819]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSCF6820.jpg"
+	thumbURL="thumbs/DSCF6820.jpg"
+	linkURL="images/DSCF6820.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@OldMortonians\2017\WRG Sat180217\DSCF6820.JPG">
+    <title><![CDATA[DSCF6820]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSCF6821.jpg"
+	thumbURL="thumbs/DSCF6821.jpg"
+	linkURL="images/DSCF6821.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@OldMortonians\2017\WRG Sat180217\DSCF6821.JPG">
+    <title><![CDATA[DSCF6821]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSCF6822.jpg"
+	thumbURL="thumbs/DSCF6822.jpg"
+	linkURL="images/DSCF6822.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@OldMortonians\2017\WRG Sat180217\DSCF6822.JPG">
+    <title><![CDATA[DSCF6822]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSCF6823.jpg"
+	thumbURL="thumbs/DSCF6823.jpg"
+	linkURL="images/DSCF6823.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Kevin\Dropbox\@@OldMortonians\2017\WRG Sat180217\DSCF6823.JPG">
+    <title><![CDATA[DSCF6823]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
   <image imageURL="images/pull1.jpg"
 	thumbURL="thumbs/pull1.jpg"
 	linkURL="images/pull1.jpg"
 	linkTarget="_blank"
-	sourcePath="C:\Users\Kevin\Dropbox\@@OldMortonians\2017\WRG Sat180217\pull1.png"
-
->
+	sourcePath="C:\Users\Kevin\Dropbox\@@OldMortonians\2017\WRG Sat180217\pull1.png">
     <title><![CDATA[pull1]]></title>
     <caption><![CDATA[]]></caption>
   </image>
@@ -97,46 +137,6 @@
 	linkTarget="_blank"
 	sourcePath="C:\Users\Kevin\Dropbox\@@OldMortonians\2017\WRG Sat180217\DSCF6818.JPG">
     <title><![CDATA[DSCF6818]]></title>
-    <caption><![CDATA[]]></caption>
-  </image>
-  <image imageURL="images/DSCF6819.jpg"
-	thumbURL="thumbs/DSCF6819.jpg"
-	linkURL="images/DSCF6819.jpg"
-	linkTarget="_blank"
-	sourcePath="C:\Users\Kevin\Dropbox\@@OldMortonians\2017\WRG Sat180217\DSCF6819.JPG">
-    <title><![CDATA[DSCF6819]]></title>
-    <caption><![CDATA[]]></caption>
-  </image>
-  <image imageURL="images/DSCF6820.jpg"
-	thumbURL="thumbs/DSCF6820.jpg"
-	linkURL="images/DSCF6820.jpg"
-	linkTarget="_blank"
-	sourcePath="C:\Users\Kevin\Dropbox\@@OldMortonians\2017\WRG Sat180217\DSCF6820.JPG">
-    <title><![CDATA[DSCF6820]]></title>
-    <caption><![CDATA[]]></caption>
-  </image>
-  <image imageURL="images/DSCF6821.jpg"
-	thumbURL="thumbs/DSCF6821.jpg"
-	linkURL="images/DSCF6821.jpg"
-	linkTarget="_blank"
-	sourcePath="C:\Users\Kevin\Dropbox\@@OldMortonians\2017\WRG Sat180217\DSCF6821.JPG">
-    <title><![CDATA[DSCF6821]]></title>
-    <caption><![CDATA[]]></caption>
-  </image>
-  <image imageURL="images/DSCF6822.jpg"
-	thumbURL="thumbs/DSCF6822.jpg"
-	linkURL="images/DSCF6822.jpg"
-	linkTarget="_blank"
-	sourcePath="C:\Users\Kevin\Dropbox\@@OldMortonians\2017\WRG Sat180217\DSCF6822.JPG">
-    <title><![CDATA[DSCF6822]]></title>
-    <caption><![CDATA[]]></caption>
-  </image>
-  <image imageURL="images/DSCF6823.jpg"
-	thumbURL="thumbs/DSCF6823.jpg"
-	linkURL="images/DSCF6823.jpg"
-	linkTarget="_blank"
-	sourcePath="C:\Users\Kevin\Dropbox\@@OldMortonians\2017\WRG Sat180217\DSCF6823.JPG">
-    <title><![CDATA[DSCF6823]]></title>
     <caption><![CDATA[]]></caption>
   </image>
 </juiceboxgallery>
